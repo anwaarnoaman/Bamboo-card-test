@@ -57,8 +57,8 @@ The Docker image can be found here: anwaarnoaman/bambooapi
 
 To run the Docker image, open the terminal and execute the following commands:
 
-cd Bamboo-card-test
-docker run -p 44319:80 anwaarnoaman/bambooapi:1.0.0
+    cd path/Bamboo-card-test
+    docker run -p 44319:80 anwaarnoaman/bambooapi:1.0.0
 
 You can access the API via http://localhost:44319.
 
