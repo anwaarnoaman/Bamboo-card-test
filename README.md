@@ -83,6 +83,7 @@ Click on "Try it out" and in Parameters enter N number of news to fetch.
 
 in responce body section retrieved data can be found in data object
 
+```json
 {
   "id": null,
   "message": "Best stories retrieved successfully",
@@ -109,6 +110,7 @@ in responce body section retrieved data can be found in data object
   ],
   "stackTrace": null
 }
+
 
 
 
