@@ -75,7 +75,7 @@ You can access the API via http://localhost:44319.
 for (vscode and visual studio) open http://localhost:5000
 for (docker and docker compose) open http://localhost:44319
 
-app will be opend in swagger UI
+app will open in swagger UI
 
 <img width="1429" alt="Screenshot 2024-03-26 at 12 22 04 PM" src="https://github.com/anwaarnoaman/Bamboo-card-test/assets/37085691/78ea83d6-a1b3-4ae3-a893-1d1ec65c6b0e">
 
