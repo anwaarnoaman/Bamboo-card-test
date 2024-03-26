@@ -1,0 +1,12 @@
+﻿version: "3.8"
+
+services:
+  bambooapi:
+    image: "anwaarnoaman/bambooapi:1.0.0"
+    container_name: "bambooapi"
+    ports:
+      - "44319:80"
+    deploy:
+      replicas: 1
+ 
+ 

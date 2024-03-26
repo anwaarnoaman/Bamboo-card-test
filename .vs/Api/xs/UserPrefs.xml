@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A9E59366-CA7B-47A0-9F15-007BAB018445}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="Startup.cs" />
+      <File FileName="Model/ApiResponse.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Program.cs" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="appsettings.json" />
+      <File FileName="Installer/IInstaller.cs" />
+      <File FileName="Installer/SwaggerInstaller.cs" />
+      <File FileName="Controllers/StoriesController.cs" Line="97" Column="36" />
+      <File FileName="Model/Story.cs" />
+      <File FileName="Installer/HttpClientInstaller.cs" />
+      <File FileName="Service/GlobalHandler/ResponseMiddleware.cs" />
+      <File FileName="Installer/SettingsInstaller.cs" />
+      <File FileName="Model/ApiUrls.cs" />
+      <File FileName="README.md" />
+      <File FileName="Installer/MemoryCacheInstaller.cs" />
+      <File FileName="docker-compose.yaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api" expanded="True">
+            <Node name="Api" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Api PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
