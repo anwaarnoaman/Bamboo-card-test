@@ -72,13 +72,13 @@ You can access the API via http://localhost:44319.
 
 ## How to use
 
-for (vscode and visual studio) open http://localhost:5000/Stories/n
-for (docker and docker compose) open http://localhost:44319/Stories/n
+    for (vscode and visual studio) open http://localhost:5000/Stories/n
+    for (docker and docker compose) open http://localhost:44319/Stories/n
 
 or 
-
-for (vscode and visual studio) open http://localhost:5000
-for (docker and docker compose) open http://localhost:44319
+    
+    for (vscode and visual studio) open http://localhost:5000
+    for (docker and docker compose) open http://localhost:44319
 
 app will open in swagger UI
 
