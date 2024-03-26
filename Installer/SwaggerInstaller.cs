@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
- 
+
 namespace Api.Installer
 {
     public class SwaggerInstaller : IInstaller
@@ -14,7 +14,6 @@ namespace Api.Installer
                     Version = "v1",
                     Title = "Api",
                     Description = "Bamboo-card - Developer Coding Test",
-                    
                 }
                 );
 
